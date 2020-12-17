@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\bin\Release\DongKhungAnh.exe.config
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\bin\Release\DongKhungAnh.exe
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\bin\Release\DongKhungAnh.pdb
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Release\DongKhungAnh.Form1.resources
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Release\DongKhungAnh.Properties.Resources.resources
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Release\DongKhungAnh.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Release\DongKhungAnh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Release\DongKhungAnh.exe
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Release\DongKhungAnh.pdb

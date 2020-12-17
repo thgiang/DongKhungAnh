@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Debug\DongKhungAnh.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Debug\DongKhungAnh.Form1.resources
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Debug\DongKhungAnh.Properties.Resources.resources
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Debug\DongKhungAnh.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Debug\DongKhungAnh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\bin\Debug\DongKhungAnh.exe.config
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\bin\Debug\DongKhungAnh.exe
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\bin\Debug\DongKhungAnh.pdb
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Debug\DongKhungAnh.exe
+C:\Users\Admin\source\repos\DongKhungAnh\DongKhungAnh\obj\Debug\DongKhungAnh.pdb
